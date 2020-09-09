@@ -1,0 +1,43 @@
+{
+	"name": "Hypex",
+	"displayName": "Hypex Theme",
+	"description": "💜 Purple Dark theme for Visual Studio Code made by Leon Arantes.",
+	"publisher": "Hypex",
+	"version": "0.0.4",
+	"engines": {
+		"vscode": "^1.48.0"
+	},
+	"icon": "images/icon/logo.png",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"galleryBanner": {
+		"color": "#222145",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Hypex",
+		"Hypex Theme",
+		"Theme Hypex",
+		"Theme Purple",
+		"Theme Purple Dark"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hypex Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hypex Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1da7bd62-0d92-4b63-9b04-87fb5e72e712",
+		"publisherId": "3a419e37-99ee-43b0-926a-cf38a69ae3de",
+		"publisherDisplayName": "Hypex"
+	}
+}
