@@ -1,6 +1,10 @@
-# :purple_heart: Hypex Theme for [Visual Studio Code](http://code.visualstudio.com)
+<h1 align="center">
+    <img src="https://ik.imagekit.io/LeonArantes/logo_1sG2TT3Z_.png" alt="Icon Logo Hypex Theme" height="300"/>
+</h1>
 
-> A Hypex Theme Purple for [Visual Studio Code](http://code.visualstudio.com).
+<h1 align="center"> :purple_heart: Hypex Theme </h1>
+
+## A Hypex Theme Purple for [Visual Studio Code](http://code.visualstudio.com).
 
 ![Screenshot](https://ik.imagekit.io/LeonArantes/previewTheme_JlYLTGjEj.png)
 
