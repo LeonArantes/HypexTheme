@@ -1,16 +1,23 @@
-# Hypex Theme for [Visual Studio Code](http://code.visualstudio.com)
+# :purple_heart: Hypex Theme for [Visual Studio Code](http://code.visualstudio.com)
 
 > A Hypex Theme Purple for [Visual Studio Code](http://code.visualstudio.com).
 
 ![Screenshot](https://ik.imagekit.io/LeonArantes/previewTheme_JlYLTGjEj.png)
 
-## Install
+## 📦 Install Theme
 
+### Terminal installation 
+
+> Open your Terminal
 ```
     $ git clone https://github.com/LeonArantes/HypexTheme.git ~/.vscode/extensions/HypexTheme
-    $ cd ~/.vscode/extensions/HypexTheme
-    $ npm install
-    $ npm run build
+```
+> Perfect! Now just open Visual Studio Code and change the Extension
+
+### Installation Extensions Visual Studio Code
+> Launch VS Code Quick Open (Ctrl+P)
+```
+    ext install Hypex.Hypex
 ```
 
 ## Team
